@@ -32,6 +32,6 @@ sway-ir = { path = "../sway-ir" }
 sway-types = { path = "../sway-types" }
 sway-utils = { path = "../sway-utils" }
 textwrap = "0.16.0"
-tokio = "1.12"
+tokio = "1.13"
 toml = { version = "0.7", features = ["parse"] }
 tracing = "0.1"
